@@ -4,6 +4,7 @@ Cargo.lock
 /config.stamp
 /Makefile
 /config.mk
+book/
 src/doc/build
 src/etc/*.pyc
 src/registry/target
